@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Live Parallax</string>
+    <string name="set_parallax_wallpaper">Set parallax wallpaper</string>
 </resources>
